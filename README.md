@@ -8,7 +8,7 @@ It also integrates with an **admin dashboard (Flutter Web)** for data management
 ### Clone the repository
 git clone https://github.com/WalidSellami/lp_detector
 
-cd lp_detector
+### Or download as ZIP and extract it then open the project in your editor
 
 ### Create virtual environment
 python -m venv .venv
